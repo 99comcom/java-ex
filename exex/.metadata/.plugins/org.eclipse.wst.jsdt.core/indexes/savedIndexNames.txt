@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/woodindin/Downloads/data/java/exex/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1303903523.index
+630261776.index
+81710058.index
+3757307790.index
+1378720695.index
+2523027892.index
